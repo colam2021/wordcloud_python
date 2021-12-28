@@ -3,6 +3,6 @@ This is a final project of the Google Crash Course on Python. It took me a year 
  
 The project is to create a wordcloud by building a dictionary with words and frequencies. The project did help me to understand more about dictionary in python.
 
-When doing string exercises, whether it's R or Python, I found many will use classic novel or president's speech. That's fine.  But to me, I want to use current social materials.  Therefore, I decided to use Chapter One from the "Summary of the Final Report of the Truth and Reconciliation Commission of Canada."
+When doing string exercises, whether it's R or Python, I found many will use classic novels or president's speeches. To me, I want to link my data science skills with social events that ppl care.  Therefore, I decided to use Chapter One from the "Summary of the Final Report of the Truth and Reconciliation Commission of Canada." I feel it's more meaningful to me.
 
 ![wordcloud](https://user-images.githubusercontent.com/82190225/147516023-d2bfb277-c487-4525-bc32-ddc48772eee3.png)
